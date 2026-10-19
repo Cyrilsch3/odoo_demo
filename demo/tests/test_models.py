@@ -42,5 +42,5 @@ class TestPartners(TransactionCase):
             self.partner.write({
                 'hobbies': swimming.ids,
                 'hobby': minecraft.id,
-            }) #avec commentaire
-'hello world'
+            }) 
+
